@@ -1,0 +1,5 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html{background:#F4F3EE;color:#101114}
+:focus-visible{outline:2px solid #FF4B5C;outline-offset:3px}
+.line{border:1px solid rgba(16,17,20,.12)}.dline{border:1px solid rgba(255,255,255,.12)}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
